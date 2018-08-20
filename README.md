@@ -236,7 +236,7 @@ flow --model cfg/yolo-new.cfg --load bin/yolo-new.weights --demo videofile.avi -
 
 To use your webcam/camera, simply replace `videofile.avi` with keyword `camera`.
 
-#Mohit's Edit: Use this command for using camera and weights that I downloaded.
+# Mohit's Edit: Use this command for using camera and weights that I downloaded.
 ```bash
 flow --model cfg/yolo --load bin/yolov2.weights --demo camera
 ```
